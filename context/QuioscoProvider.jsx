@@ -1,8 +1,9 @@
+
 import {useState, useEffect, createContext} from 'react'
 
 const QuioscoContext = createContext()
 
-const QuiscoProvider = ({children}) => {
+const QuioscoProvider = ({children}) => {
 
     return(
         <QuioscoContext.Provider
@@ -16,6 +17,6 @@ const QuiscoProvider = ({children}) => {
 
 }
 export{
-    QuiscoProvider
+    QuioscoProvider
 }
-export default QuioscoContext
+export default QuioscoContext   
