@@ -5,6 +5,7 @@ import Producto from '../components/Producto';
 import useQuiosco from '../hooks/useQuiosco';
 
 
+
 export default function Home() {
   const {categoriaActual} = useQuiosco();
 
