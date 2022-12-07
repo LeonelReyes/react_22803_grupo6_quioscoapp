@@ -29,7 +29,7 @@ export default function Layout({children, pagina}) {
     return (
         <>
             <Head>
-                <title>Café - {pagina}</title>
+                <title>Cafetería - {pagina}</title>
                 <meta name="description" content = "Quiosco Cafetería"/>
             </Head>
             <div className = "md:flex">
