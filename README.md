@@ -2,12 +2,19 @@ Este es un proyecto para Codo a Codo Full Stack React
 
 para correr este proyecto:
 
+
 clonar el repositorio
+
 instalar node de forma manual: npm install next react react-dom
+
 instalar axios: npm install axios
 
+
 crear una base de datos en mysql llamada quioscoapp
+
 correr el proyecto: npm run dev
+
+
 correr la migracion de prisma: npx prisma migrate dev
 
 para visualizar mejor la DB ejecutar: npx prisma studio
