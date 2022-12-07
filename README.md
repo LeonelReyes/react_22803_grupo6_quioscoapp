@@ -1,3 +1,17 @@
+Este es un proyecto para Codo a Codo Full Stack React
+
+para correr este proyecto:
+
+clonar el repositorio
+instalar node de forma manual: npm install next react react-dom
+instalar axios: npm install axios
+
+crear una base de datos en mysql llamada quioscoapp
+correr la migracion de prisma: npx prisma migrate dev
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
