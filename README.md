@@ -1,4 +1,4 @@
-Este es un proyecto para Codo a Codo Full Stack React
+## Este es un proyecto para Codo a Codo Full Stack React
 
 para correr este proyecto:
 
